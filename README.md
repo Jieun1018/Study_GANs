@@ -1,2 +1,2 @@
 # Study_GANs
-Study Generative Adversarial Networks using PyTorch
+>Study Generative Adversarial Networks using PyTorch / TensorFlow
