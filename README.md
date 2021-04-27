@@ -35,4 +35,5 @@
 <h3>Loss-Epoch Graph</h3>
 <ul>
   <li>(code) <a href="https://github.com/Jieun1018/Study_GANs/blob/main/Tensorboard_DCGAN_loss_graph.ipynb">dcgan loss-epoch graph</a></li>
+  <li>(code) <a href="https://github.com/Jieun1018/Study_GANs/blob/main/VanillaGAN_loss_function_graph.ipynb">vanillagan loss-epoch graph</a></li>
 </ul>
