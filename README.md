@@ -22,7 +22,7 @@
     <td>DCGAN</td>
     <td><a href="https://arxiv.org/abs/1511.06434">paper</a></td>
     <td><a href=""></a></td>
-    <td><a href="https://github.com/Jieun1018/Study_GANs/blob/main/GAN_TF.ipynb">code</a></td>
+    <td><a href="https://github.com/Jieun1018/Study_GANs/blob/main/DCGAN.ipynb">code</a></td>
   </tr>
   <tr>
     <td>PGGAN</td>
