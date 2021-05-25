@@ -28,7 +28,7 @@
     <td>PGGAN</td>
     <td><a href="https://arxiv.org/abs/1710.10196">paper</a></td>
     <td><a href=""></a></td>
-    <td><del><a href="">code</a></del></td>
+    <td><a href="https://github.com/Jieun1018/Study_GANs/blob/main/PGGAN.ipynb">code(incomplete)</a></td>
   </tr>
 </table>
     
