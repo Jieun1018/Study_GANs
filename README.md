@@ -38,3 +38,27 @@
   <li>(code) <a href="https://github.com/Jieun1018/Study_GANs/blob/main/Tensorboard_DCGAN_loss_graph.ipynb">dcgan loss-epoch graph</a></li>
   <li>(code) <a href="https://github.com/Jieun1018/Study_GANs/blob/main/VanillaGAN_loss_function_graph.ipynb">vanillagan loss-epoch graph</a></li>
 </ul>
+
+<hr>
+<h3>Evaluation</h3>
+<p>Evaluate GAN using MSE, PSNR, SSIM</p>
+<table>
+  <tr>
+    <th>-</th>
+    <th>MSE</th>
+    <th>PSNR</th>
+    <th>SSIM</th>
+  </tr>
+  <tr>
+    <th>DCGAN</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <th>PGGANGAN</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+ </table>
