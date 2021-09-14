@@ -36,8 +36,7 @@
 <h3>Loss-Epoch Graph</h3>
 <ul>
   <li>(code) <a href="https://github.com/Jieun1018/Study_GANs/blob/main/Tensorboard_DCGAN_loss_graph.ipynb">dcgan loss-epoch graph</a></li>
-  <!--<a href="https://github.com/Jieun1018/Study_GANs/blob/main/img/dcgan-tensorboard(1000).jpg"></a>-->
-  ![dcgan-tensorboard(1000)](https://user-images.githubusercontent.com/69624052/133298676-6b32f74c-e465-41b7-95c1-d61bb53fb2a2.jpg)
+  <a href="https://github.com/Jieun1018/Study_GANs/blob/main/img/dcgan-tensorboard(1000).jpg"><img src="https://user-images.githubusercontent.com/69624052/133298676-6b32f74c-e465-41b7-95c1-d61bb53fb2a2.jpg"></a>
   <li>(code) <a href="https://github.com/Jieun1018/Study_GANs/blob/main/VanillaGAN_loss_function_graph.ipynb">vanillagan loss-epoch graph</a></li>
 </ul>
 
