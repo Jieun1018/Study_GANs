@@ -56,7 +56,7 @@
     <th></th>
   </tr>
   <tr>
-    <th>PGGANGAN</th>
+    <th>PGGAN</th>
     <th></th>
     <th></th>
     <th></th>
