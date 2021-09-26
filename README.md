@@ -44,7 +44,7 @@
 
 <hr>
 <h3>Evaluation</h3>
-<p>Evaluate GAN using MSE, PSNR, SSIM</p>
+<p>Evaluate GAN using MSE, PSNR, SSIM(random sampling: 500)</p>
 <table>
   <tr>
     <th>-</th>
